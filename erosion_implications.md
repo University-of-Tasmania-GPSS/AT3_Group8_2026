@@ -4,7 +4,7 @@
 :alt: Change in susceptibility class between 2010 and 2100, zoomed to the Sandy Bay area
 :width: 100%
 
-Change in erosion susceptibility classes from 2010 to 2100 - around Long Beach.
+Change in erosion susceptibility classes from 2010 to 2100 around Long Beach.
 ```
 
 
@@ -12,27 +12,17 @@ Change in erosion susceptibility classes from 2010 to 2100 - around Long Beach.
 :alt: Change in susceptibility class between 2010 and 2100, full study area
 :width: 100%
 
-Change in erosion susceptibility classes from 2010 to 2100 - in the Derwent Estuary.
+Change in erosion susceptibility classes from 2010 to 2100 in the Derwent Estuary.
 ```
 
-CVI: change in class, 2010 to 2100 (147346 cells in both)
+Change in susceptibility class between 2010 and 2100 for the CVI calculated and Fuzzy Gamma Overlay models (total of 147,346 cells).
 
-   +0: 132886 cells (90.2%)
+| Class change | CVI cells | CVI (%) | Fuzzy Overlay cells | Fuzzy Overlay (%) |
+|:------------:|----------:|--------:|--------------------:|------------------:|
+| +0 (no change) | 132,886 | 90.2 | 133,645 | 90.7 |
+| +1 | 11,482 | 7.8 | 11,093 | 7.5 |
+| +2 | 2,840 | 1.9 | 2,546 | 1.7 |
+| +3 | 134 | 0.1 | 62 | 0.04 |
 
-   +1: 11482 cells (7.8%)
-
-   +2: 2840 cells (1.9%)
-
-   +3: 134 cells (0.1%)
-
-
-
-Fuzzy Overlay: change in class, 2010 to 2100 (147346 cells in both)
-
-   +0: 133645 cells (90.7%)
-
-   +1: 11093 cells (7.5%)
-
-   +2: 2546 cells (1.7%)
-
-   +3: 62 cells (0.0%)
+## Evaluation
+Despite the project being an examination of sinkhole susceptibility, erosion is an independent factor that can be individually assessed. As the outputs above show, the susceptibility to erosion is becoming worse with the rise in sea levels. Using theList storm surge water level line for 2010 (known) and 2100 (projected), the increase in erosion susceptibility was able to be modelled, which showed that just under 10% of the Derwent Estuary would see an increase in the risk of erosion, with 134 10x10 metre areas changing from low risk to very high risk (CVI data). This shows that it is important for studies like the one undertaken in this project to be carried out to effectively model areas which are at risk of erosion and to be able to take measures in these areas to prevent its impact.

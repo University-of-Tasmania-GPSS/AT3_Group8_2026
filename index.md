@@ -1,17 +1,25 @@
 # Would you like to know if the ground below you was going to crumble away? I know I would.
 
-# Scope
+## Scope
 
-The idea of this project was sparked from the project list but we thought we’d try something different. During his work at UDM, group member Mondi undertook a laser scan survey requested by Hobart Council over fears that a 0.5 metre hole in the Sandy Bay Area was larger than first assumed. The results of the survey would shock you with the laser scan revealing that there is a 86.6 cubic metre hole below the surface caused by reasons seemingly unknown. This prompted us to use this data as the basis for our project and undertake a sinkhole susceptibility examination of the Derwent River region to examine if areas under similar environmental conditions could be outlined and marked as highly susceptible to sinkholes.
+The idea of this project was sparked from the project list but we thought we’d try something different. During his work at UDM, group member Mondi undertook a laser scan survey requested by Hobart Council over fears that a 0.5 metre hole in the ground at Sandy Bay's, Long Beach was larger than first assumed. The results of the survey would shock you with the laser scan revealing that there is a 86.6 cubic metre hole below the surface caused by reasons seemingly unknown. This prompted us to use this data as the scope for our project and undertake an erosion susceptibility examination of the Derwent River region and a Sinkhole susceptibility study at Long Beach to examine if areas under similar environmental conditions could be outlined and marked as highly susceptible to sinkholes.
 
-```{figure} figures/Sinkhole_Spot.png
-:alt: A marker of where the surveyed sinkhole is located
+```{figure} figures/locator_map.png
+:alt: Sinkhole Locator Map
 :width: 100%
 
-A marker of where the surveyed sinkhole is located.
+A map of the location of the Sandy Bay sinkhole.
 ```
 
-# Objectives
+```{figure} figures/Study_Area_Map.png
+:alt: Study area map of the Derwent estuary and Sandy Bay sinkhole site
+:width: 100%
+
+A map of the entire Derwent Estuary study area as well as the localised Long beach sinkhole study area.
+```
+&nbsp;
+
+## Objectives
 
 The main goals of the study are:
 

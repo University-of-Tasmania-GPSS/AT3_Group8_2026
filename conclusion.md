@@ -1,3 +1,5 @@
+# Conclusion
+
 This investigation demonstrated how GIS-based multi-criteria modelling can be used to assess 
 relative susceptibility to coastal washout and ground collapse at Long Beach. 
 The integration of independently produced coastal vulnerability datasets showed that modelling 
