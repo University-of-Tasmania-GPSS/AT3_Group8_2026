@@ -1,0 +1,30 @@
+version: 1
+
+project:
+  title: Would you like to know if the ground below you was going to crumble away? I know I would.
+  authors:
+    - name: Fergus Callinan
+    - name: Mondi Wara      
+  toc:
+    - file: index.md    
+    - file: introduction.md         
+
+    - title: Coastal Erosion Model
+      children:
+        - file: erosion_methods.md
+        - file: erosion_validation.md
+        - file: erosion_results.md
+        - file: erosion_implications.md
+
+    - title: Sinkhole Susceptibility Model
+      children:
+        - file: sinkhole_methods.md
+        - file: sinkhole_results.md
+        - file: sinkhole_discussion.md
+        - file: sinkhole_implications.md
+        
+    - file: conclusion.md   
+    - file: bibliography.md     
+
+site:
+  template: book-theme
