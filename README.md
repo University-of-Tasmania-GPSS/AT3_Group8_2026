@@ -29,11 +29,22 @@ surface drainage, terrain characteristics, coastal erosion hazards and soil erod
 
 
 `myst.yml` - Jupyter Book (MyST) file which directs where each page lands on the website
+
 `index.md`, `introduction.md` - Introductory pages featuring project scope and introduction with the index acting as the landing page
-`erosion_methods.md`, `erosion_results.md`, `erosion_validation.md`, `erosion_implications.md` | Coastal erosion model pages going through the results of this aspect of the study
-`sinkhole_methods.md`, `sinkhole_results.md`, `sinkhole_validation.md`, `sinkhole_implications.md`, `sinkhole_discussion.md` | Sinkhole model pages going through the results of this aspect of the study
+
+`erosion_methods.md`, `erosion_results.md`, `erosion_validation.md`, `erosion_implications.md`  Coastal erosion model pages going through the results of this aspect of the study
+
+`sinkhole_methods.md`, `sinkhole_results.md`, `sinkhole_validation.md`, `sinkhole_implications.md`, `sinkhole_discussion.md` Sinkhole model pages going through the results of this aspect of the study
+
 `conclusion.md` - Concluding statements from the project
+
 `bibliography.md` - References used across both studies
+
 `figures/` - Maps and images stored in this folder which were used in the book
+
 `.github/workflows/` Automatically deploys the book 
+
 `LICENSE` - Licence for the repository.
+
+
+* GenAI was used for the advanced coding aspects of this project. *
